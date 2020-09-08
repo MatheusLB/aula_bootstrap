@@ -1,0 +1,24 @@
+body{
+
+	
+}
+
+.navbar{
+	background-color: #31B404;
+}
+
+.quem-somos{
+	background-color: #0431B4;
+	color: #white
+}
+
+.margin{
+
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.nav-link .active{
+	color: #fff;
+} 

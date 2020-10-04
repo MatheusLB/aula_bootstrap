@@ -1,0 +1,20 @@
+sistema de grades bootstrap: 12 colunas
+
+container: identificar espaços na tela
+
+row: alinha conteudo
+
+col-lg: divide a linha em colunas grandes
+
+col-md : dive a linha em colunas medias
+
+padding: cm, %, ox, mm
+
+classes do sistema de grade:
+sm: para tablets
+
+lg: laptosps e desktops
+
+md: laptops pequenos
+
+xs: celulare
